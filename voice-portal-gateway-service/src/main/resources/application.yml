@@ -1,0 +1,7 @@
+server:
+  port: 8302
+  contextPath: /voice-portal-gateway
+  
+voice-portal-service:
+  url : http://24.33.37.215:8070/voice-portal-service/voicemail-settings
+
